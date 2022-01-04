@@ -74,7 +74,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                     padding: const EdgeInsets.all(8.0),
                     child: FaIcon(
                       FontAwesomeIcons.peopleArrows,
-                      size: 30,
+                      size: 10,
                     ),
                   ),
                 ),
