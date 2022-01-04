@@ -21,7 +21,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         backgroundColor: FlutterFlowTheme.primaryColor,
         automaticallyImplyLeading: false,
         title: Text(
-          'Git Repo Testing',
+          'Hello World',
           style: FlutterFlowTheme.bodyText1,
         ),
         actions: [],
@@ -33,7 +33,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         child: Align(
           alignment: AlignmentDirectional(0, 0),
           child: Text(
-            'Testing...',
+            'From flutter flow Testing',
             style: FlutterFlowTheme.bodyText1,
           ),
         ),
