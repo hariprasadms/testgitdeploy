@@ -33,7 +33,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         child: Align(
           alignment: AlignmentDirectional(0, 0),
           child: Text(
-            'Testing...',
+            'From first one Testing...',
             style: FlutterFlowTheme.bodyText1,
           ),
         ),
