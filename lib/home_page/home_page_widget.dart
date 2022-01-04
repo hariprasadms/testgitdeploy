@@ -70,9 +70,12 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                       topRight: Radius.circular(4.0),
                     ),
                   ),
-                  prefixIcon: FaIcon(
-                    FontAwesomeIcons.peopleArrows,
-                    size: 30,
+                  prefixIcon: Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: FaIcon(
+                      FontAwesomeIcons.peopleArrows,
+                      size: 30,
+                    ),
                   ),
                 ),
                 style: FlutterFlowTheme.bodyText1,
