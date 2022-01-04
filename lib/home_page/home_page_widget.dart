@@ -21,7 +21,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
         backgroundColor: FlutterFlowTheme.primaryColor,
         automaticallyImplyLeading: false,
         title: Text(
-          'Hello World',
+          'Git Repo Testing',
           style: FlutterFlowTheme.bodyText1,
         ),
         actions: [],
